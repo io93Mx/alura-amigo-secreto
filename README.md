@@ -1,14 +1,12 @@
 # amigo secreto alura
- 
 
 
 
+<h1 align='center'> Juego del amigo secreto </h1>
 
+<h3>Este es el juego: El amigo secreto, del curso de alura<br><br></h3>
+<em>De que trata:<em><br><br>El juego trata de que introduscas varios nombres de tus amigos (por lo menos 2), para que despues el sistema escoja al azar un nombre de toda la lista que le diste y ese sera el ganador, el cual te debera invitar algo. :).
 
-
-<h1 align='center'> Juego del numero secreto </h1>
-
-<h3> Contiene el repositorio del juego: El numero secreto del curso de alura </h3>
 
 <h3> Insignias </h3>
 <em align="left">
@@ -23,7 +21,7 @@
 <h2> Indice </h2>
    
 <h3>Descripción del proyecto </h3> <!--descripción-del-proyecto-->
-<p>  Este proyecto es sobre un juego para poner en practica conceptos basicos de razonamiento y logica </p>
+<p>  Este proyecto es sobre un juego para poner en practica conceptos basicos de logica de programacion </p>
 
 <h3> Estado del proyecto </h3>
 <em align="center">
@@ -34,10 +32,10 @@
 
 ## :hammer: Funcionalidades del proyecto
 
-- - `Funcionalidad 1`: Repaso de los numeros
-- - `Funcionalidad 2`: Practica de memoria
-- - `Funcionalidad 3`: Practica de logica
-- - `Funcionalidad 4`: Entretenimiento
+- - `Funcionalidad 1`: Entretenimiento
+- - `Funcionalidad 2`: Saber quienes son tus amigos
+- - `Funcionalidad 3`: Practica de logica de programacion
+
 
 <h3> Acceso al proyecto </h3>
 
@@ -54,7 +52,7 @@
 <h3> Tecnologías utilizadas </h3>
 
 <em align="center">
-   <img src="https://img.shields.io/badge/BUILT%20IN-HTML%20CSS%20JS-red">
+   <img src="https://img.shields.io/badge/BUILT%20IN-HTML%20CSS%20JavaScript-red">
    </em>
 
 <h3> Desarrolladores del Proyecto y Personas Contribuyentes </h3>
