@@ -1,14 +1,11 @@
-# amigo secreto alura
- https://io93mx.github.io/alura-amigo-secreto/ 
-
-
 
 
 
 
 <h1 align='center'> Juego del amigo secreto </h1>
 
-<h3> Contiene el repositorio del juego: El amigo secreto del curso de alura </h3>
+<h3>Este es el juego: El amigo secreto, del curso de alura</h3> <a href="https://io93mx.github.io/alura-amigo-secreto/">Jugar</a><br><br>
+<em>De que trata:<em><br><br>El juego trata de que adivines un numero que es secreto. Primero tienes que escoger un rango de numeros, siempre sera desde el 1 y tu decides el otro numero, por ejemplo: Un rango del 1 al 10.<br><br>Despues debes elegir el numero de intentos que tendras para adivinar un numero secreto que esta en el rango escogido, por ejemplo: 3 intentos.<br><br>Y listo, el juego comienza, debes de empezar a adivinar el numero secreto. Contiene el repositorio del juego: El amigo secreto del curso de alura </h3>
 
 <h3> Insignias </h3>
 <em align="left">
