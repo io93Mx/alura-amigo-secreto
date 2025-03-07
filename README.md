@@ -6,9 +6,9 @@
 
 
 
-<h1 align='center'> Juego del numero secreto </h1>
+<h1 align='center'> Juego del amigo secreto </h1>
 
-<h3> Contiene el repositorio del juego: El numero secreto del curso de alura </h3>
+<h3> Contiene el repositorio del juego: El amigo secreto del curso de alura </h3>
 
 <h3> Insignias </h3>
 <em align="left">
@@ -23,7 +23,7 @@
 <h2> Indice </h2>
    
 <h3>Descripción del proyecto </h3> <!--descripción-del-proyecto-->
-<p>  Este proyecto es sobre un juego para poner en practica conceptos basicos de razonamiento y logica </p>
+<p>  Este proyecto es sobre un juego para hacer una rifa entre tus amigos </p>
 
 <h3> Estado del proyecto </h3>
 <em align="center">
