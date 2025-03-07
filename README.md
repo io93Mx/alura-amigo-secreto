@@ -31,9 +31,9 @@
 
 ## :hammer: Funcionalidades del proyecto
 
-- - `Funcionalidad 1`: Repaso de los numeros
+- - `Funcionalidad 1`: Repaso de tus amigos
 - - `Funcionalidad 2`: Practica de memoria
-- - `Funcionalidad 3`: Practica de logica
+- - `Funcionalidad 3`: Conocer que es el azar
 - - `Funcionalidad 4`: Entretenimiento
 
 <h3> Acceso al proyecto </h3>
